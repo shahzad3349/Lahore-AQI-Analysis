@@ -82,8 +82,3 @@ Lahore_AQI/
 Python · Pandas · Requests · Matplotlib · Seaborn · Statsmodels (ARIMA) · Streamlit
 
 ---
-
-## Author
-
-**Shahzad Ahmad**
-BS Computer Science — UET Lahore
