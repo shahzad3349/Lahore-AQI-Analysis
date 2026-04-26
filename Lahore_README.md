@@ -1,9 +1,7 @@
 # 🌫️ Lahore AQI Analysis & Forecasting
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://lahore-aqi-analysis-idzeu3epyhhwbxjnadh6te.streamlit.app/)
 
 > 🔴 **Live Demo:** [Click here to view the app](https://lahore-aqi-analysis-idzeu3epyhhwbxjnadh6te.streamlit.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/shahzad3349/Lahore-AQI-Dashboard)
 
 
 > Pakistan mein smog ek serious issue hai. Yeh project Lahore ki air quality ke trends, patterns aur future forecast dikhata hai.
