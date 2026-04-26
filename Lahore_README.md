@@ -27,7 +27,7 @@ Real-time AQI analytics and forecasting dashboard for Lahore, Pakistan — built
 ### 1. Setup API Key
 Create `config.py` in root folder:
 ```python
-API_KEY = "your_openweathermap_api_key"
+API_KEY = "my_api_key"
 CITY = "Lahore"
 LAT = 31.5204
 LON = 74.3587
